@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+<string name="addition">ADDITION</string>
+    <string name="result">Show result here</string>
+    <string name="first">Enter First Num</string>
+    <string name="second">Enter Second Num</string>
+    <string name="add">ADD</string>
+</resources>
